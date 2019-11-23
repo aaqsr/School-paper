@@ -1,8 +1,15 @@
+%      Awab you idiot. WHy you do this
+%      ps. hi person reading this (probs sukaina)
+
 \documentclass{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{microtype}
 \usepackage{graphicx}
+\setlength{\parindent}{2pt}
+%To get rid of indents cause miss amna hates them 
+\usepackage{fancyhdr}
+\usepackage{float}
 \usepackage{lipsum}
 \usepackage{newspaper}
 %that's the one which makes the magic happen
@@ -36,14 +43,28 @@
 \SetPaperName{
           %  \includegraphics[scale=0.3]{fps}
         % \scalerel*{\includegraphics{fps}}{f}
-            FPS Eagles:}
+            FPS Eagles:   
+         \hfill  \includegraphics[height=\fontcharht\font`\B]{cfps} 
+      }
 \SetHeaderName{FPS Eagles}
-\SetPaperLocation{OLDC Karachi}
+\SetPaperLocation{
+%    \centering
+   %\begin{figure}
+    %   \centering
+  %  \vspace{5mm}
+  %  \includegraphics[scale=0.12]{lfps} 
+   %  \includegraphics[scale=0.09]{W}
+   %\end{figure}
+    
+   
+}
 \SetPaperSlogan{
             %     \includegraphics[scale=0.3]{fps}
-                ``\textit{FPSonians are the best; second to none!}''}
-\SetPaperPrice{Founded by Awab Qureshi and Sukaina Kazmi; batch 2020}
-
+                ``\textit{FPSonians are the best; second to none!}''
+              %  \includegraphics[scale=0.1]{cfps}
+                }
+\SetPaperPrice{By Awab Qureshi and Sukaina Kazmi; batch 2020}
+\cfoot{\textit{FPSonians are the best; second to none!}}
 
 
 % Metadata you should change
