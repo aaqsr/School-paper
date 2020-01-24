@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1579712105 "/Users/apple/Documents/Newspaper/School-paper/template/newspaper.tex" "/Users/apple/Documents/Newspaper/School-paper/template/newspaper.pdf" "newspaper" 1579712107
-  "/Users/apple/Documents/Newspaper/School-paper/template/newspaper.aux" 1579712107 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/Users/apple/Documents/Newspaper/School-paper/template/newspaper.tex" 1579712104 3149 5da79965a544b3375610dc05db306789 ""
+["pdflatex"] 1579880726 "/Users/apple/Documents/Newspaper/School-paper/template/newspaper.tex" "/Users/apple/Documents/Newspaper/School-paper/template/newspaper.pdf" "newspaper" 1579880728
+  "/Users/apple/Documents/Newspaper/School-paper/template/newspaper.aux" 1579880727 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/Users/apple/Documents/Newspaper/School-paper/template/newspaper.tex" 1579880718 3250 0a7bb48822054572edd8cbb304cf45cc ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1480098668 2880 847ca622ad468c3dafba6a3f9d89a636 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1480098696 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
@@ -94,12 +94,12 @@
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "mascot.png" 1579710891 206754 37d0d2194ae66477a768bcccd1558972 ""
   "newspaper-mod.sty" 1579709933 271 5a2a2cf57b32b32ad4f96240b5534c38 ""
-  "newspaper.aux" 1579712107 8 a94a2480d3289e625eea47cd1b285758 ""
-  "newspaper.tex" 1579712104 3149 5da79965a544b3375610dc05db306789 ""
+  "newspaper.aux" 1579880727 8 a94a2480d3289e625eea47cd1b285758 ""
+  "newspaper.tex" 1579880718 3250 0a7bb48822054572edd8cbb304cf45cc ""
   "w.png" 1579710998 1563 da98a9951a107c9973057faa5fc6c23b ""
   (generated)
-  "newspaper.pdf"
-  "/Users/apple/Documents/Newspaper/School-paper/template/newspaper.pdf"
   "/Users/apple/Documents/Newspaper/School-paper/template/newspaper.log"
-  "newspaper.aux"
   "newspaper.log"
+  "/Users/apple/Documents/Newspaper/School-paper/template/newspaper.pdf"
+  "newspaper.aux"
+  "newspaper.pdf"
