@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.21)  22 JAN 2020 22:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.21)  5 FEB 2020 11:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/apple/Documents/Newspaper/School-paper/Issue 1/newspaper.tex"
+**newspaper.tex
 (/Users/apple/Documents/Newspaper/School-paper/Issue 1/newspaper.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
@@ -727,19 +727,11 @@ Package pdftex.def Info: w.png  used on input line 91.
 File: noplastic.png Graphic file (type png)
 <use noplastic.png>
 Package pdftex.def Info: noplastic.png  used on input line 93.
-(pdftex.def)             Requested size: 248.4275pt x 248.4275pt.
-
-Overfull \hbox (2.48251pt too wide) in paragraph at lines 93--94
-[][] 
- []
-
+(pdftex.def)             Requested size: 223.58324pt x 223.58324pt.
 File: w.png Graphic file (type png)
 <use w.png>
 Package pdftex.def Info: w.png  used on input line 95.
 (pdftex.def)             Requested size: 30.34012pt x 30.64125pt.
-
-Overfull \vbox (10.27812pt too high) has occurred while \output is active []
-
  [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/apple/Documents/Newspaper/School-paper/Issue 1/mascot.png> </Users/apple/Documents/Newspaper/School-paper/Issue 1/w.png> </Users/apple/Documents/Newspaper/School-paper/Issue 1/noplastic.png>]
@@ -758,62 +750,56 @@ Overfull \vbox (26.0125pt too high) has occurred while \output is active []
 File: m1.jpeg Graphic file (type jpg)
 <use m1.jpeg>
 Package pdftex.def Info: m1.jpeg  used on input line 190.
-(pdftex.def)             Requested size: 194.2301pt x 156.49014pt.
-<m2.jpeg, id=23, 532.99126pt x 511.9125pt>
-File: m2.jpeg Graphic file (type jpg)
-<use m2.jpeg>
-Package pdftex.def Info: m2.jpeg  used on input line 191.
-(pdftex.def)             Requested size: 162.93213pt x 156.49014pt.
-<m3.jpeg, id=24, 533.74406pt x 542.025pt>
-File: m3.jpeg Graphic file (type jpg)
-<use m3.jpeg>
-Package pdftex.def Info: m3.jpeg  used on input line 193.
-(pdftex.def)             Requested size: 168.10583pt x 170.71652pt.
-<m4.jpeg, id=25, 523.20468pt x 484.81125pt>
+(pdftex.def)             Requested size: 176.57578pt x 142.26378pt.
+<m4.jpeg, id=23, 523.20468pt x 484.81125pt>
 File: m4.jpeg Graphic file (type jpg)
 <use m4.jpeg>
-Package pdftex.def Info: m4.jpeg  used on input line 194.
-(pdftex.def)             Requested size: 184.23407pt x 170.71652pt.
+Package pdftex.def Info: m4.jpeg  used on input line 191.
+(pdftex.def)             Requested size: 153.52972pt x 142.26378pt.
+<m2.jpeg, id=24, 642.4pt x 901.3675pt>
+File: m2.jpeg Graphic file (type jpg)
+<use m2.jpeg>
+Package pdftex.def Info: m2.jpeg  used on input line 193.
+(pdftex.def)             Requested size: 121.66518pt x 170.71652pt.
 
 Overfull \vbox (26.0125pt too high) has occurred while \output is active []
 
- [3 </Users/apple/Documents/Newspaper/School-paper/Issue 1/m1.jpeg> </Users/apple/Documents/Newspaper/School-paper/Issue 1/m2.jpeg> </Users/apple/Documents/Newspaper/School-paper/Issue 1/m3.jpeg> </Users/apple/Documents/Newspaper/School-paper/Issue 1/m4.jpeg>]
+ [3 </Users/apple/Documents/Newspaper/School-paper/Issue 1/m1.jpeg> </Users/apple/Documents/Newspaper/School-paper/Issue 1/m4.jpeg> </Users/apple/Documents/Newspaper/School-paper/Issue 1/m2.jpeg>]
 File: w.png Graphic file (type png)
 <use w.png>
-Package pdftex.def Info: w.png  used on input line 213.
+Package pdftex.def Info: w.png  used on input line 215.
 (pdftex.def)             Requested size: 30.34012pt x 30.64125pt.
-<grammy.jpg, id=29, 643.40375pt x 632.3625pt>
+<grammy.jpg, id=28, 643.40375pt x 632.3625pt>
 File: grammy.jpg Graphic file (type jpg)
 <use grammy.jpg>
-Package pdftex.def Info: grammy.jpg  used on input line 216.
-(pdftex.def)             Requested size: 250.92645pt x 246.62038pt.
-
-Overfull \hbox (4.98146pt too wide) in paragraph at lines 216--217
-[][] 
- []
-
-<prodigy.jpeg, id=30, 226.8475pt x 245.91875pt>
+Package pdftex.def Info: grammy.jpg  used on input line 217.
+(pdftex.def)             Requested size: 225.19469pt x 221.33018pt.
+File: w.png Graphic file (type png)
+<use w.png>
+Package pdftex.def Info: w.png  used on input line 219.
+(pdftex.def)             Requested size: 30.34012pt x 30.64125pt.
+<prodigy.jpeg, id=29, 226.8475pt x 245.91875pt>
 File: prodigy.jpeg Graphic file (type jpg)
 <use prodigy.jpeg>
-Package pdftex.def Info: prodigy.jpeg  used on input line 221.
+Package pdftex.def Info: prodigy.jpeg  used on input line 224.
 (pdftex.def)             Requested size: 226.84694pt x 245.91814pt.
 
 Overfull \vbox (26.0125pt too high) has occurred while \output is active []
 
  [4 </Users/apple/Documents/Newspaper/School-paper/Issue 1/grammy.jpg> </Users/apple/Documents/Newspaper/School-paper/Issue 1/prodigy.jpeg>] (/Users/apple/Documents/Newspaper/School-paper/Issue 1/newspaper.aux) ) 
 Here is how much of TeX's memory you used:
- 7262 strings out of 492649
- 105666 string characters out of 6129621
- 296925 words of memory out of 5000000
- 10884 multiletter control sequences out of 15000+600000
- 69495 words of font info for 141 fonts, out of 8000000 for 9000
+ 7263 strings out of 492649
+ 105735 string characters out of 6129621
+ 296926 words of memory out of 5000000
+ 10880 multiletter control sequences out of 15000+600000
+ 69753 words of font info for 144 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,7n,43p,1522b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,7n,43p,1466b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmri.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/yfonts-t1/ygoth.pfb>
-Output written on "/Users/apple/Documents/Newspaper/School-paper/Issue 1/newspaper.pdf" (4 pages, 1024050 bytes).
+Output written on "/Users/apple/Documents/Newspaper/School-paper/Issue 1/newspaper.pdf" (4 pages, 804518 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
+ 50 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 22067 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 22062 words of extra memory for PDF output out of 24883 (max. 10000000)
 
